@@ -1,0 +1,27 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "test game for developers",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "game",
+    "OOP",
+    "data-driven",
+    "programming",
+    "javascript",
+    "design",
+    "principles"
+  ],
+  "author": "Mark Nijenhuis",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
